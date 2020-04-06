@@ -1,5 +1,7 @@
 # DohTracker
 
+Generated with `mix phx.new doh_tracker --live` (Note that `--live` is currently only available on the Phoenix master branch)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
