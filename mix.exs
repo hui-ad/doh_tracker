@@ -37,7 +37,7 @@ defmodule DohTracker.MixProject do
       {:phoenix_ecto, "~> 4.1"},
       {:ecto_sql, "~> 3.4"},
       {:postgrex, ">= 0.0.0"},
-      {:phoenix_live_view, "~> 0.10.0"},
+      {:phoenix_live_view, github: "phoenixframework/phoenix_live_view"},
       {:floki, ">= 0.0.0", only: :test},
       {:phoenix_live_dashboard, github: "phoenixframework/phoenix_live_dashboard"},
       {:phoenix_html, "~> 2.11"},
