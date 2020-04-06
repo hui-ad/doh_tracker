@@ -1,0 +1,5 @@
+%{
+  "phoenix": {:git, "https://github.com/phoenixframework/phoenix.git", "a50d3dd5a6af1532ed5d82ea21c361b5076f599b", []},
+  "phoenix_live_dashboard": {:git, "https://github.com/phoenixframework/phoenix_live_dashboard.git", "7c23701011e5c2a0c88b407d5cfa94de29f41fbe", []},
+  "phoenix_pubsub": {:git, "https://github.com/phoenixframework/phoenix_pubsub.git", "325abd48e0ec164548b84a8bdf2ff357a2ec20a2", []},
+}
